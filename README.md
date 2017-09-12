@@ -1,5 +1,7 @@
 # homebridge-http-motion
 
+a litte helper to control a Scene from a another Device like a Andriod Phone 
+
 ## Installation
 Login as root
 ```bash
@@ -33,7 +35,7 @@ http://xxx.xxx.xxx.xxx.18001  to activate motion and trigger a Scene
 
 and so on ;-) 
 
-litte Android Bdrige ;-) 
+litte Android Bridge ;-) 
 
 
 
