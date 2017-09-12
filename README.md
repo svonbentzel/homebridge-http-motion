@@ -12,7 +12,7 @@ npm install -g
 ```json
   "accessories": [
     {
-        "accessory": "http-motion",
+        "accessory": "http-motion-switch",
         "name": "Remote-Switch",
         "port": 18089          
     }
