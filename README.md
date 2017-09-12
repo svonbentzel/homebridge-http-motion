@@ -10,17 +10,30 @@ npm install -g
 
 ## Config
 ```json
-  "accessories": [
+ "accessories": [
     {
-        "accessory": "http-motion-sensor",
-        "name": "Remote-Switch",
-        "port": 18000         
+      "accessory": "http-motion-sensor",
+      "name": "Remote-Switch-on",
+      "port": 18000
+    },
+    {
+      "accessory": "http-motion-sensor",
+      "name": "Remote-Switch-off",
+      "port": 18001
     }
-      ]
+  ]
+
 ```
 ## Usage
-http://localhost:18000
-http://xxx.xxx.xxx.xxx.18000
+http://localhost:18000 to activate motion and trigger a Scene
+http://xxx.xxx.xxx.xxx.18000  to activate motion and trigger a Scene
+
+http://localhost:18001 to activate motion and trigger a Scene
+http://xxx.xxx.xxx.xxx.18001  to activate motion and trigger a Scene
+
+and so on ;-) 
+
+litte Android Bdrige ;-) 
 
 
 
