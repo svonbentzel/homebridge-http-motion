@@ -14,13 +14,13 @@ npm install -g
     {
         "accessory": "http-motion-sensor",
         "name": "Remote-Switch",
-        "port": 18089          
+        "port": 18000         
     }
       ]
 ```
 ## Usage
-http://localhost:18089
-http://xxx.xxx.xxx.xxx.18089
+http://localhost:18000
+http://xxx.xxx.xxx.xxx.18000
 
 
 
