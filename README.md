@@ -1,14 +1,14 @@
 # homebridge-http-motion
 
 ## Installation
-(Login as root with ```sudo su```)
+Login as root
 ```bash
 git clone https://github.com/svonbentzel/homebridge-http-motion.git
 cd homebridge-http-motion
 npm install -g
 ```
 
-## Configuration
+## Config
 ```json
   "accessories": [
     {
