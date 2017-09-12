@@ -1,0 +1,29 @@
+{
+	"name": "homebridge-http-motion-switch",
+	"version": "1.0.0",
+	"description": "Homebridge plugin for a remote motion switch based on http",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/svonbentzel/homebridge-http-motion.git"
+	},
+	"keywords": [
+		"homebridge-plugin",
+		"homebridge",
+		"homekit",
+		"motion"
+	],
+	"author": "Sebastian von Bentzel",
+	"license": "GPL-3.0",
+	"bugs": {
+		"url": "https://github.com/svonbentzel/homebridge-http-motion/issues"
+	},
+	"homepage": "https://github.com/svonbentzel/homebridge-http-motion#readme",
+	"engines" : {
+	    "node": ">=0.12.0",
+	    "homebridge": ">=0.2.0"
+	}
+}
