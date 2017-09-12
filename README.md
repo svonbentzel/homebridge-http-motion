@@ -18,6 +18,9 @@ npm install -g
     }
       ]
 ```
+## Usage
+http://localhost:18089
+http://xxx.xxx.xxx.xxx.18089
 
 
 
